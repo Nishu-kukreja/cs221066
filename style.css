@@ -1,0 +1,33 @@
+body{
+    color:white;
+    font-size: 34px;
+    background-image:url(https://tse3.mm.bing.net/th?id=OIP.y634FFQE9Qm8kJdPm5lEcQHaEK&pid=Api&P=0);
+    background-size: cover;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+h1{
+ 
+    text-decoration: underline overline;
+    
+
+}
+ol{
+    list-style-type: decimal-leading-zero;
+    border:2px;
+    border-radius: 0%;
+    border-style:inherit;
+    border-width: 30px;
+    border-image: url(https://ih1.redbubble.net/image.23126853.7776/flat,800x800,075,f.jpg);
+}
+ul{
+    list-style: inside lower-alpha;
+}
+
+h2{background-color: tomato;}
+h3{
+
+    text-decoration: underline overline dotted;
+
+}
